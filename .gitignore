@@ -151,4 +151,5 @@ cython_debug/
 data/
 data_rendered/
 data_temporary/
-
+data*
+song*
